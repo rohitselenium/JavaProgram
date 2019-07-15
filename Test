@@ -1,0 +1,9 @@
+
+Public Class A{
+
+Public static void main(String args[])
+{
+ Systout.out.println("Hello");
+
+}
+}
